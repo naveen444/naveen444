@@ -56,14 +56,6 @@ Let's make something special.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen444&&layout=compact&&show_icons=true&title_color=5ADBFF&icon_color=FE5F00&text_color=5ADBFF&border_color=fe5f00&bg_color=45,151515,0A0A0A" />
 </a>
 
-<div align="center">
-	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/master/header.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
-
 <!-- <img src=""> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen444&&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
