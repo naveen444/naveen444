@@ -33,9 +33,9 @@ Let's make something special.
 
 **✉️ Find me on:**
 <p align="">
- <a href="https://github.com/naveen444" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/naveenk444/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:naveen.bunty444@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/naveen444" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30" style="vertical-align:top; margin:4px; filter: invert(1);"> </a>
+ <a href="https://www.linkedin.com/in/naveenk444/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px; filter: invert(1);"></a>
+ <a href="mailto:naveen.bunty444@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px; filter: invert(1);"></a>
 </p>
 
 
