@@ -28,7 +28,7 @@ Let's make something special.
 </ul>
 
 <h2>🚀 Projects</h2>
-🌤️ <!-- Weather Forecasting App -->
+<!-- Weather Forecasting App -->
 <h3>🌤️ Weather Forecasting App</h3>
 <p><strong>Tech Stack:</strong> React.js, Axios, Bootstrap, OpenWeatherMap API</p>
 <p>A modern weather app showing real-time weather based on user input.</p>
