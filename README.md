@@ -76,6 +76,7 @@ Let's make something special.
   <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
 </a>
 
+<br><br>
 
 Currently
 - 🔭 Focused on upskilling and contributing to meaningful projects
