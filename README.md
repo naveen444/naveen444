@@ -18,7 +18,7 @@ Let's make something special.
 
 <h2>Experience</h2>
 <h3>EQUITRAX CORPORATE VENTURES</h3>
-<p><em>Frontend Web Developer | May 2022 – August 2023</em></p>
+<p><em>Frontend Web Developer | May 2022 – August 2024</em></p>
 <ul>
   <li>Developed responsive user interfaces for scalable SaaS platforms using React.js, Tailwind CSS, and Redux.</li>
   <li>Collaborated with cross-functional teams to translate design mockups into functional, pixel-perfect components.</li>
@@ -28,6 +28,32 @@ Let's make something special.
 </ul>
 
 <h2>🚀 Projects</h2>
+
+
+<!-- StayeSmart -->
+<h3>🏠 StayeSmart</h3>
+<p><strong>Live Demo:</strong> <a href="https://stayesmart.netlify.app/" target="_blank">https://stayesmart.netlify.app/</a></p>
+<p><strong>Tech Stack:</strong> Next.js 14, Tailwind CSS, TypeScript, Prisma ORM, PostgreSQL, Kinde Auth, Shadcn UI, Vercel Cron, Supabase Storage</p>
+<p>
+  Engineered a property rental platform with listing, booking & reservation workflows, secure auth (Kinde), Supabase media handling, and server actions for efficient SSR logic. Modeled complex relational data with Prisma ORM and PostgreSQL.
+</p>
+<ul>
+  <li><strong>User Authentication</strong> via Kinde Auth</li>
+  <li><strong>Property Management:</strong> Create, edit, and delete listings</li>
+  <li><strong>Booking System:</strong> Reserve homes with dynamic status updates</li>
+  <li><strong>Server Actions:</strong> Used for handling logic and data mutations</li>
+  <li><strong>Theming:</strong> Dark/Light mode using Shadcn UI</li>
+  <li><strong>Auto Expiry:</strong> Reservations automatically expire using Vercel Cron</li>
+</ul>
+<a href="https://stayesmart.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" alt="Live Demo">
+</a>
+<a href="https://github.com/naveen444/Airbnb-next-clone" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+</a>
+
+<br><br>
+
 <!-- Weather Forecasting App -->
 <h3>🌤️ Weather Forecasting App</h3>
 <p><strong>Tech Stack:</strong> React.js, Axios, Bootstrap, OpenWeatherMap API</p>
@@ -49,30 +75,6 @@ Let's make something special.
   <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" alt="Live Demo">
 </a>
 <a href="https://github.com/naveen444/React-ImagePlus-App" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
-</a>
-
-<br><br>
-
-<!-- Full-stack Airbnb Clone -->
-<h3>🏠 Full-Stack Airbnb Clone</h3>
-<p><strong>Live Demo:</strong> <a href="https://naveen-airbnb.vercel.app/" target="_blank">https://naveen-airbnb.vercel.app/</a></p>
-<p><strong>Tech Stack:</strong> Next.js 14, Tailwind CSS, TypeScript, Prisma ORM, PostgreSQL, Kinde Auth, Shadcn UI, Vercel Cron, Supabase Storage</p>
-<p>
-  A production-ready Airbnb clone that allows users to list, book, and manage properties. Built with modern full-stack technologies and designed with clean, intuitive UI/UX.
-</p>
-<ul>
-  <li><strong>User Authentication</strong> via Kinde Auth</li>
-  <li><strong>Property Management:</strong> Create, edit, and delete listings</li>
-  <li><strong>Booking System:</strong> Reserve homes with dynamic status updates</li>
-  <li><strong>Server Actions:</strong> Used for handling logic and data mutations</li>
-  <li><strong>Theming:</strong> Dark/Light mode using Shadcn UI</li>
-  <li><strong>Auto Expiry:</strong> Reservations automatically expire using Vercel Cron</li>
-</ul>
-<a href="https://naveen-airbnb.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge" alt="Live Demo">
-</a>
-<a href="https://github.com/naveen444/Airbnb-next-clone" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
 </a>
 
