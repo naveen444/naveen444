@@ -18,7 +18,7 @@ Let's make something special.
 
 <h2>Experience</h2>
 <h3>EQUITRAX CORPORATE VENTURES</h3>
-<p><em>Frontend Web Developer | May 2022 – August 2024</em></p>
+<p><em>Frontend Web Developer | May 2022 – August 2025</em></p>
 <ul>
   <li>Developed responsive user interfaces for scalable SaaS platforms using React.js, Tailwind CSS, and Redux.</li>
   <li>Collaborated with cross-functional teams to translate design mockups into functional, pixel-perfect components.</li>
